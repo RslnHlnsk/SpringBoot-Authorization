@@ -1,0 +1,8 @@
+C:\Users\1\IdeaProjects\SpringBoot Authorization\src\main\java\ru\netology\auth\AuthorizationApplication.java
+C:\Users\1\IdeaProjects\SpringBoot Authorization\src\main\java\ru\netology\auth\controller\AuthorizationController.java
+C:\Users\1\IdeaProjects\SpringBoot Authorization\src\main\java\ru\netology\auth\exception\GlobalExceptionHandler.java
+C:\Users\1\IdeaProjects\SpringBoot Authorization\src\main\java\ru\netology\auth\exception\InvalidCredentials.java
+C:\Users\1\IdeaProjects\SpringBoot Authorization\src\main\java\ru\netology\auth\exception\UnauthorizedUser.java
+C:\Users\1\IdeaProjects\SpringBoot Authorization\src\main\java\ru\netology\auth\model\Authorities.java
+C:\Users\1\IdeaProjects\SpringBoot Authorization\src\main\java\ru\netology\auth\repository\UserRepository.java
+C:\Users\1\IdeaProjects\SpringBoot Authorization\src\main\java\ru\netology\auth\service\AuthorizationService.java

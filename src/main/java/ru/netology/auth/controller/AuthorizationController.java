@@ -3,7 +3,6 @@ package ru.netology.auth.controller;
 import ru.netology.auth.model.Authorities;
 import ru.netology.auth.service.AuthorizationService;
 import org.springframework.beans.factory.annotation.Autowired;
-import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
 
 import java.util.List;

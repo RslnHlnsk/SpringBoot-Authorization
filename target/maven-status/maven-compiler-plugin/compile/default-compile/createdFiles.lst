@@ -1,0 +1,8 @@
+ru\netology\auth\AuthorizationApplication.class
+ru\netology\auth\exception\InvalidCredentials.class
+ru\netology\auth\model\Authorities.class
+ru\netology\auth\exception\UnauthorizedUser.class
+ru\netology\auth\repository\UserRepository.class
+ru\netology\auth\exception\GlobalExceptionHandler.class
+ru\netology\auth\service\AuthorizationService.class
+ru\netology\auth\controller\AuthorizationController.class
